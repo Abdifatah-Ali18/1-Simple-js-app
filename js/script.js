@@ -1,1 +1,1 @@
-let pokemonList [{name:'Kakuna', height:0.6, weight:10, types:['poison', 'bug']},{name:'Raichu', height:0.8, weight:30, types:['electric']},{name:'Golbat', height:1.6, weight:55, types:['poison','flying']}]
+let pokemonList = [{name:'Kakuna', height:0.6, weight:10, types:['poison', 'bug']},{name:'Raichu', height:0.8, weight:30, types:['electric']},{name:'Golbat', height:1.6, weight:55, types:['poison','flying']}]
